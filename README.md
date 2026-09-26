@@ -18,7 +18,7 @@ on Google and being the name an AI assistant recommends.
 [LinkedIn](https://www.linkedin.com/in/lucasferrazseo/) ·
 [YouTube](https://www.youtube.com/@lucasferrazseo) ·
 [X](https://x.com/lucasferrazseo) ·
-[Instagram](https://www.instagram.com/lucasferrazseo/)
+[Instagram](https://www.instagram.com/lucasferraztec/)
 
 ---
 
@@ -93,7 +93,7 @@ Google e ser o nome que um assistente de IA recomenda.
 [LinkedIn](https://www.linkedin.com/in/lucasferrazseo/) ·
 [YouTube](https://www.youtube.com/@lucasferrazseo) ·
 [X](https://x.com/lucasferrazseo) ·
-[Instagram](https://www.instagram.com/lucasferrazseo/)
+[Instagram](https://www.instagram.com/lucasferraztec/)
 
 #### Repositórios por tema
 
