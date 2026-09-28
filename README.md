@@ -34,6 +34,8 @@ on Google and being the name an AI assistant recommends.
 | [ai-bots-list](https://github.com/LucasFerrazSEO/ai-bots-list) | Open, versioned list of AI bots (search and training) plus a robots.txt checker |
 | [ai-crawler-log-parser](https://github.com/LucasFerrazSEO/ai-crawler-log-parser) | Finds and classifies AI bot hits in server access logs |
 | [citation-round-logger](https://github.com/LucasFerrazSEO/citation-round-logger) | Logs AI citation rounds and calculates brand share of voice |
+| [ai-readiness-check](https://github.com/LucasFerrazSEO/ai-readiness-check) | Scores a site's technical readiness for AI search: llms.txt, AI bots in robots.txt, entity schema, edge probes |
+| [geo-lint-action](https://github.com/LucasFerrazSEO/geo-lint-action) | GitHub Action that runs these GEO checks on every pull request |
 
 #### Technical SEO and structured data
 
@@ -46,12 +48,18 @@ on Google and being the name an AI assistant recommends.
 | [snippet-pixel-measure](https://github.com/LucasFerrazSEO/snippet-pixel-measure) | Estimates title and meta description width in pixels, not characters |
 | [og-image-check](https://github.com/LucasFerrazSEO/og-image-check) | Checks that a URL's og:image exists and reports its real dimensions |
 | [keyword-density-report](https://github.com/LucasFerrazSEO/keyword-density-report) | Keyword density and most frequent n-grams for Brazilian Portuguese text |
+| [entity-sameas-check](https://github.com/LucasFerrazSEO/entity-sameas-check) | Audits Organization and Person sameAs: dead profiles, Wikidata cross-check, `@id` consistency |
+| [internal-link-audit](https://github.com/LucasFerrazSEO/internal-link-audit) | Internal link crawler: orphans, click depth, repeated links per text, generic anchors, nofollow |
+| [sitemap-similarity-check](https://github.com/LucasFerrazSEO/sitemap-similarity-check) | Finds near-duplicate pages, repeated sections and similar titles across a sitemap |
+| [sitemap-lastmod-audit](https://github.com/LucasFerrazSEO/sitemap-lastmod-audit) | Checks whether sitemap lastmod dates are real or generated at build time |
 
 #### Measurement
 
 | Repository | What it does |
 |---|---|
 | [ab-test-significance](https://github.com/LucasFerrazSEO/ab-test-significance) | Statistical significance of an A/B test with a small sample |
+| [gsc-cannibalization-finder](https://github.com/LucasFerrazSEO/gsc-cannibalization-finder) | Finds Search Console queries split across two or more URLs of the same site |
+| [ai-referrer-report](https://github.com/LucasFerrazSEO/ai-referrer-report) | GA4 sessions and conversions from AI assistants, by real referrer only |
 
 #### WordPress
 
@@ -104,18 +112,26 @@ Google e ser o nome que um assistente de IA recomenda.
   [llms-txt-lint](https://github.com/LucasFerrazSEO/llms-txt-lint),
   [anti-citation-directives-check](https://github.com/LucasFerrazSEO/anti-citation-directives-check),
   [ai-bots-list](https://github.com/LucasFerrazSEO/ai-bots-list),
-  [ai-crawler-log-parser](https://github.com/LucasFerrazSEO/ai-crawler-log-parser) e
-  [citation-round-logger](https://github.com/LucasFerrazSEO/citation-round-logger).
+  [ai-crawler-log-parser](https://github.com/LucasFerrazSEO/ai-crawler-log-parser),
+  [citation-round-logger](https://github.com/LucasFerrazSEO/citation-round-logger),
+  [ai-readiness-check](https://github.com/LucasFerrazSEO/ai-readiness-check) e
+  [geo-lint-action](https://github.com/LucasFerrazSEO/geo-lint-action) (GitHub Action que roda essas checagens em pull request).
 - **SEO técnico e dados estruturados.**
   [jsonld-graph-check](https://github.com/LucasFerrazSEO/jsonld-graph-check),
   [faq-schema-parity-check](https://github.com/LucasFerrazSEO/faq-schema-parity-check),
   [Structured-Data-JSON-LD](https://github.com/LucasFerrazSEO/Structured-Data-JSON-LD),
   [heading-structure-lint](https://github.com/LucasFerrazSEO/heading-structure-lint),
   [snippet-pixel-measure](https://github.com/LucasFerrazSEO/snippet-pixel-measure),
-  [og-image-check](https://github.com/LucasFerrazSEO/og-image-check) e
-  [keyword-density-report](https://github.com/LucasFerrazSEO/keyword-density-report).
+  [og-image-check](https://github.com/LucasFerrazSEO/og-image-check),
+  [keyword-density-report](https://github.com/LucasFerrazSEO/keyword-density-report),
+  [entity-sameas-check](https://github.com/LucasFerrazSEO/entity-sameas-check),
+  [internal-link-audit](https://github.com/LucasFerrazSEO/internal-link-audit),
+  [sitemap-similarity-check](https://github.com/LucasFerrazSEO/sitemap-similarity-check) e
+  [sitemap-lastmod-audit](https://github.com/LucasFerrazSEO/sitemap-lastmod-audit).
 - **Medição.**
-  [ab-test-significance](https://github.com/LucasFerrazSEO/ab-test-significance).
+  [ab-test-significance](https://github.com/LucasFerrazSEO/ab-test-significance),
+  [gsc-cannibalization-finder](https://github.com/LucasFerrazSEO/gsc-cannibalization-finder) e
+  [ai-referrer-report](https://github.com/LucasFerrazSEO/ai-referrer-report).
 - **WordPress.**
   [Wordpress-Functions](https://github.com/LucasFerrazSEO/Wordpress-Functions),
   [wordpress-security-tips](https://github.com/LucasFerrazSEO/wordpress-security-tips),
