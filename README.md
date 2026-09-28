@@ -43,7 +43,7 @@ on Google and being the name an AI assistant recommends.
 |---|---|
 | [jsonld-graph-check](https://github.com/LucasFerrazSEO/jsonld-graph-check) | Validates JSON-LD `@graph` integrity: duplicate `@id`, dangling references, isolated nodes |
 | [faq-schema-parity-check](https://github.com/LucasFerrazSEO/faq-schema-parity-check) | Compares the visible FAQ in the HTML with the FAQPage JSON-LD |
-| [Structured-Data-JSON-LD](https://github.com/LucasFerrazSEO/Structured-Data-JSON-LD) | LocalBusiness JSON-LD template for structured data |
+| [structured-data-json-ld](https://github.com/LucasFerrazSEO/structured-data-json-ld) | LocalBusiness JSON-LD template for structured data |
 | [heading-structure-lint](https://github.com/LucasFerrazSEO/heading-structure-lint) | Heading hierarchy with no skipped levels and a single H1 |
 | [snippet-pixel-measure](https://github.com/LucasFerrazSEO/snippet-pixel-measure) | Estimates title and meta description width in pixels, not characters |
 | [og-image-check](https://github.com/LucasFerrazSEO/og-image-check) | Checks that a URL's og:image exists and reports its real dimensions |
@@ -65,10 +65,10 @@ on Google and being the name an AI assistant recommends.
 
 | Repository | What it does |
 |---|---|
-| [Wordpress-Functions](https://github.com/LucasFerrazSEO/Wordpress-Functions) | Snippets for a theme's functions.php: cleanup, image optimization, reCAPTCHA v3 on login |
+| [wordpress-functions](https://github.com/LucasFerrazSEO/wordpress-functions) | Snippets for a theme's functions.php: cleanup, image optimization, reCAPTCHA v3 on login |
 | [wordpress-security-tips](https://github.com/LucasFerrazSEO/wordpress-security-tips) | Hardening snippets: functions.php, .htaccess and Cloudflare WAF rules |
-| [Privacy-Policy-Disclaimer-Without-WordPress-Plugin](https://github.com/LucasFerrazSEO/Privacy-Policy-Disclaimer-Without-WordPress-Plugin) | Privacy policy consent banner for WordPress without a plugin |
-| [Facilitated-Routines](https://github.com/LucasFerrazSEO/Facilitated-Routines) | Planned WordPress plugin to automate repetitive maintenance tasks (no code yet) |
+| [privacy-policy-disclaimer-without-wordpress-plugin](https://github.com/LucasFerrazSEO/privacy-policy-disclaimer-without-wordpress-plugin) | Cookie consent for WordPress in one file for functions.php, no plugin: LGPD, GDPR, CCPA/CPRA, Google Consent Mode v2, embed blocking and consent log |
+| [facilitated-routines-wordpress-plugin](https://github.com/LucasFerrazSEO/facilitated-routines-wordpress-plugin) | Planned WordPress plugin to automate repetitive maintenance tasks (no code yet) |
 
 Every repository has a README in English and in Brazilian Portuguese. Bug
 reports and suggestions are welcome through each repository's Issues.
@@ -119,7 +119,7 @@ Google e ser o nome que um assistente de IA recomenda.
 - **SEO técnico e dados estruturados.**
   [jsonld-graph-check](https://github.com/LucasFerrazSEO/jsonld-graph-check),
   [faq-schema-parity-check](https://github.com/LucasFerrazSEO/faq-schema-parity-check),
-  [Structured-Data-JSON-LD](https://github.com/LucasFerrazSEO/Structured-Data-JSON-LD),
+  [structured-data-json-ld](https://github.com/LucasFerrazSEO/structured-data-json-ld),
   [heading-structure-lint](https://github.com/LucasFerrazSEO/heading-structure-lint),
   [snippet-pixel-measure](https://github.com/LucasFerrazSEO/snippet-pixel-measure),
   [og-image-check](https://github.com/LucasFerrazSEO/og-image-check),
@@ -133,10 +133,10 @@ Google e ser o nome que um assistente de IA recomenda.
   [gsc-cannibalization-finder](https://github.com/LucasFerrazSEO/gsc-cannibalization-finder) e
   [ai-referrer-report](https://github.com/LucasFerrazSEO/ai-referrer-report).
 - **WordPress.**
-  [Wordpress-Functions](https://github.com/LucasFerrazSEO/Wordpress-Functions),
+  [wordpress-functions](https://github.com/LucasFerrazSEO/wordpress-functions),
   [wordpress-security-tips](https://github.com/LucasFerrazSEO/wordpress-security-tips),
-  [Privacy-Policy-Disclaimer-Without-WordPress-Plugin](https://github.com/LucasFerrazSEO/Privacy-Policy-Disclaimer-Without-WordPress-Plugin) e
-  [Facilitated-Routines](https://github.com/LucasFerrazSEO/Facilitated-Routines) (plugin planejado, ainda sem código).
+  [privacy-policy-disclaimer-without-wordpress-plugin](https://github.com/LucasFerrazSEO/privacy-policy-disclaimer-without-wordpress-plugin) (consentimento de cookies com LGPD, GDPR, CCPA/CPRA e Consent Mode v2, sem plugin) e
+  [facilitated-routines-wordpress-plugin](https://github.com/LucasFerrazSEO/facilitated-routines-wordpress-plugin) (plugin planejado, ainda sem código).
 
 Todo repositório tem README em inglês e em português do Brasil. Relatos de
 erro e sugestões são bem-vindos pelas Issues de cada repositório.
