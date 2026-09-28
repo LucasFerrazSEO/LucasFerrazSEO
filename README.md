@@ -61,6 +61,16 @@ on Google and being the name an AI assistant recommends.
 | [gsc-cannibalization-finder](https://github.com/LucasFerrazSEO/gsc-cannibalization-finder) | Finds Search Console queries split across two or more URLs of the same site |
 | [ai-referrer-report](https://github.com/LucasFerrazSEO/ai-referrer-report) | GA4 sessions and conversions from AI assistants, by real referrer only |
 
+#### Guides, lists and templates
+
+| Repository | What it does |
+|---|---|
+| [awesome-generative-engine-optimization](https://github.com/LucasFerrazSEO/awesome-generative-engine-optimization) | Curated, verified list of primary sources on GEO: AI crawler docs, standards, papers, tools and datasets |
+| [free-open-source-seo-tools](https://github.com/LucasFerrazSEO/free-open-source-seo-tools) | Free and open source SEO tools by task, with license, last activity and honest limits |
+| [geo-measurement-protocol](https://github.com/LucasFerrazSEO/geo-measurement-protocol) | Open protocol to measure brand citation across AI search surfaces: prompts, rounds, refusals, share of voice |
+| [schema-org-templates-br](https://github.com/LucasFerrazSEO/schema-org-templates-br) | JSON-LD templates for Brazilian service businesses: clinics, law, accounting, real estate and more |
+| [a-empresa-que-a-ia-recomenda](https://github.com/LucasFerrazSEO/a-empresa-que-a-ia-recomenda) | Companion materials for my book: checklists, llms.txt, robots.txt and entity JSON-LD (not the book text) |
+
 #### WordPress
 
 | Repository | What it does |
@@ -132,6 +142,12 @@ Google e ser o nome que um assistente de IA recomenda.
   [ab-test-significance](https://github.com/LucasFerrazSEO/ab-test-significance),
   [gsc-cannibalization-finder](https://github.com/LucasFerrazSEO/gsc-cannibalization-finder) e
   [ai-referrer-report](https://github.com/LucasFerrazSEO/ai-referrer-report).
+- **Guias, listas e modelos.**
+  [awesome-generative-engine-optimization](https://github.com/LucasFerrazSEO/awesome-generative-engine-optimization) (fontes primárias de GEO, verificadas),
+  [free-open-source-seo-tools](https://github.com/LucasFerrazSEO/free-open-source-seo-tools) (ferramentas abertas de SEO por tarefa),
+  [geo-measurement-protocol](https://github.com/LucasFerrazSEO/geo-measurement-protocol) (protocolo de medição de citação por IA),
+  [schema-org-templates-br](https://github.com/LucasFerrazSEO/schema-org-templates-br) (modelos de JSON-LD por segmento brasileiro) e
+  [a-empresa-que-a-ia-recomenda](https://github.com/LucasFerrazSEO/a-empresa-que-a-ia-recomenda) (materiais de apoio do livro, sem o texto dele).
 - **WordPress.**
   [wordpress-functions](https://github.com/LucasFerrazSEO/wordpress-functions),
   [wordpress-security-tips](https://github.com/LucasFerrazSEO/wordpress-security-tips),
