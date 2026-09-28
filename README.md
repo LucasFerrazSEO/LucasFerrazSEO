@@ -71,6 +71,12 @@ on Google and being the name an AI assistant recommends.
 | [schema-org-templates-br](https://github.com/LucasFerrazSEO/schema-org-templates-br) | JSON-LD templates for Brazilian service businesses: clinics, law, accounting, real estate and more |
 | [a-empresa-que-a-ia-recomenda](https://github.com/LucasFerrazSEO/a-empresa-que-a-ia-recomenda) | Companion materials for my book: checklists, llms.txt, robots.txt and entity JSON-LD (not the book text) |
 
+#### AI APIs
+
+| Repository | What it does |
+|---|---|
+| [llm-api-python](https://github.com/LucasFerrazSEO/llm-api-python) | Ready-to-use Python scripts to send a prompt and receive the reply from 13 AI APIs: ChatGPT, Claude, Gemini, Grok, Perplexity, DeepSeek, Mistral, Groq, OpenRouter, Qwen, Kimi, Maritaca and Ollama |
+
 #### WordPress
 
 | Repository | What it does |
@@ -148,6 +154,8 @@ Google e ser o nome que um assistente de IA recomenda.
   [geo-measurement-protocol](https://github.com/LucasFerrazSEO/geo-measurement-protocol) (protocolo de medição de citação por IA),
   [schema-org-templates-br](https://github.com/LucasFerrazSEO/schema-org-templates-br) (modelos de JSON-LD por segmento brasileiro) e
   [a-empresa-que-a-ia-recomenda](https://github.com/LucasFerrazSEO/a-empresa-que-a-ia-recomenda) (materiais de apoio do livro, sem o texto dele).
+- **APIs de IA.**
+  [llm-api-python](https://github.com/LucasFerrazSEO/llm-api-python) (scripts Python prontos para enviar prompt e receber a resposta de 13 APIs de IA, do ChatGPT ao Ollama).
 - **WordPress.**
   [wordpress-functions](https://github.com/LucasFerrazSEO/wordpress-functions),
   [wordpress-security-tips](https://github.com/LucasFerrazSEO/wordpress-security-tips),
