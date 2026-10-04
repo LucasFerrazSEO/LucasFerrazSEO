@@ -28,6 +28,7 @@ on Google and being the name an AI assistant recommends.
 |---|---|
 | [citability-lint](https://github.com/LucasFerrazSEO/citability-lint) | Mechanical citability check for text: length band, vague openings, unsourced numbers, AI clichés |
 | [chunk-boundary-lint](https://github.com/LucasFerrazSEO/chunk-boundary-lint) | Checks whether the first paragraph of each section stands on its own when extracted |
+| [ai-prose-patterns-pt](https://github.com/LucasFerrazSEO/ai-prose-patterns-pt) | Flags six structural constructions common in machine-generated Brazilian Portuguese prose |
 | [page-to-ai-markdown](https://github.com/LucasFerrazSEO/page-to-ai-markdown) | Shows what an AI crawler reads from a page without JavaScript, as markdown |
 | [llms-txt-lint](https://github.com/LucasFerrazSEO/llms-txt-lint) | Validates the structure of an llms.txt file |
 | [anti-citation-directives-check](https://github.com/LucasFerrazSEO/anti-citation-directives-check) | Scans HTML for nosnippet, max-snippet:0, noarchive and data-nosnippet |
@@ -60,6 +61,13 @@ on Google and being the name an AI assistant recommends.
 | [ab-test-significance](https://github.com/LucasFerrazSEO/ab-test-significance) | Statistical significance of an A/B test with a small sample |
 | [gsc-cannibalization-finder](https://github.com/LucasFerrazSEO/gsc-cannibalization-finder) | Finds Search Console queries split across two or more URLs of the same site |
 | [ai-referrer-report](https://github.com/LucasFerrazSEO/ai-referrer-report) | GA4 sessions and conversions from AI assistants, by real referrer only |
+
+#### SERP and keyword research
+
+| Repository | What it does |
+|---|---|
+| [serp-overlap](https://github.com/LucasFerrazSEO/serp-overlap) | Compares the top 10 organic URLs of two or more searches to tell whether one page can serve them |
+| [serp-dominant-type](https://github.com/LucasFerrazSEO/serp-dominant-type) | Proposes the dominant page type in the top 10 of a search (heuristic, check by hand) |
 
 #### Guides, lists and templates
 
@@ -124,6 +132,7 @@ Google e ser o nome que um assistente de IA recomenda.
 - **GEO e busca com IA.**
   [citability-lint](https://github.com/LucasFerrazSEO/citability-lint),
   [chunk-boundary-lint](https://github.com/LucasFerrazSEO/chunk-boundary-lint),
+  [ai-prose-patterns-pt](https://github.com/LucasFerrazSEO/ai-prose-patterns-pt),
   [page-to-ai-markdown](https://github.com/LucasFerrazSEO/page-to-ai-markdown),
   [llms-txt-lint](https://github.com/LucasFerrazSEO/llms-txt-lint),
   [anti-citation-directives-check](https://github.com/LucasFerrazSEO/anti-citation-directives-check),
@@ -148,6 +157,9 @@ Google e ser o nome que um assistente de IA recomenda.
   [ab-test-significance](https://github.com/LucasFerrazSEO/ab-test-significance),
   [gsc-cannibalization-finder](https://github.com/LucasFerrazSEO/gsc-cannibalization-finder) e
   [ai-referrer-report](https://github.com/LucasFerrazSEO/ai-referrer-report).
+- **Pesquisa de SERP e de palavras-chave.**
+  [serp-overlap](https://github.com/LucasFerrazSEO/serp-overlap) (compara o top 10 de duas ou mais buscas para saber se uma página atende as duas) e
+  [serp-dominant-type](https://github.com/LucasFerrazSEO/serp-dominant-type) (propõe o tipo de página dominante no top 10, para conferir à mão).
 - **Guias, listas e modelos.**
   [awesome-generative-engine-optimization](https://github.com/LucasFerrazSEO/awesome-generative-engine-optimization) (fontes primárias de GEO, verificadas),
   [free-open-source-seo-tools](https://github.com/LucasFerrazSEO/free-open-source-seo-tools) (ferramentas abertas de SEO por tarefa),
